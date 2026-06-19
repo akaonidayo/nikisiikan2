@@ -1,0 +1,6 @@
+{
+  "name": "Nixie Tube Clock",
+  "description": "A photorealistic 3D Nixie Tube clock featuring real tube depth, physics-accurate cathode glow, bloom, glass refraction, and electrical buzz sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
