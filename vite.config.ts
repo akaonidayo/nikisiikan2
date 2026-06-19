@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/ikisiikan2/', // GitHub Pages用のベースパスを追加
+    base: '/nikisiikan2/', // GitHub Pages用のベースパスを追加
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
